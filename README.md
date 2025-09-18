@@ -35,10 +35,6 @@ This repository showcases some of my **UI/UX prototypes and design projects** cr
 ---
 
 ## 🖼️ Screenshots
-_Add exported PNGs of your key Figma screens here (inside a `docs/` folder)._  
-Example:  
-![E-learning Website](docs/elearning.png)  
-![Online Gaming App](docs/gaming.png)  
 
 ---
 
