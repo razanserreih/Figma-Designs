@@ -23,7 +23,7 @@ This repository showcases some of my **UI/UX prototypes and design projects** cr
 ---
 
 ### 📱 E-learning Application
-![E-learning Website](docs/Poster_Elearning_app.PNG) 
+![E-learning Website](docs/Poster_ElearningApp_1600x900.png) 
 - Mobile-first e-learning app design.  
 - Features: responsive layouts, clean navigation, and progress bars.  
 - [View on Figma](https://www.figma.com/design/Hv2eOHMBtGnqcXAHMzKnV9/E-learning-Application?node-id=0-1&t=adWsXQTtSkuMkqZD-1)  
@@ -31,7 +31,7 @@ This repository showcases some of my **UI/UX prototypes and design projects** cr
 ---
 
 ### 🗣️ Voice Attendance System
-![E-learning Website](docs/Poster_VoiceAttendance_app.PNG) 
+![E-learning Website](docs/Poster_VoiceAttendance_1600x900.png) 
 - Prototype for a system that uses voice-based verification for attendance.  
 - Features: student dashboard, teacher dashboard, reports.  
 - [View on Figma](https://www.figma.com/design/7nOZngEaEb08IkuDhRp7BN/Voice-Attendance-System?node-id=0-1&t=YECkoYHulgcB8wIr-1)  
