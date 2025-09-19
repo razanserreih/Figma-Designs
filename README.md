@@ -7,6 +7,7 @@ This repository showcases some of my **UI/UX prototypes and design projects** cr
 ## 📂 Projects
 
 ### 📘 E-learning Website
+![E-learning Website](docs/Poster_Elearning.png) 
 - Interactive prototype for an online education platform.  
 - Features: course browsing, student dashboards, progress tracking.  
 - [View on Figma](https://www.figma.com/design/E5juktWtRIWKvUisVf8BIJ/E-learning-Website?node-id=0-1&t=matfRlUP7fkEJXfO-1)  
@@ -14,6 +15,7 @@ This repository showcases some of my **UI/UX prototypes and design projects** cr
 ---
 
 ### 🎮 Online Gaming Application
+![E-learning Website](docs/Poster_OnlineGaming.png) 
 - Prototype for a multiplayer online gaming app.  
 - Features: login system, friend list, game rooms, chat UI.  
 - [View on Figma](https://www.figma.com/design/232BHOmE54HMAfM5q3qxS8/Online-Gaming-Application?node-id=0-1&t=sVa9FPsXU3iHoMdV-1)  
